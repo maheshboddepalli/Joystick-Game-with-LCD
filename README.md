@@ -28,3 +28,5 @@ Procedure:
 5.	Test and Debug:
 •	Test the game thoroughly to ensure it runs smoothly.
 •	Debug any issues related to display updates, input handling, and game logic.
+Result : When running the project, the 16x2 LCD display shows Mario as he moves based on user input. Obstacles move from right to left across the screen. If Mario collides with an obstacle, the game displays "Game Over" and resets.
+Conclusion : This project successfully demonstrates how a simple version of the Super Mario game can be implemented on a 16x2 LCD display. It highlights the challenges and creative solutions required to adapt complex games for small-scale, low-resolution displays. This project serves as a foundation for more advanced game development on embedded systems.
